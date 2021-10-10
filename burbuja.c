@@ -16,7 +16,6 @@ int main()
     Genera(A);
     Printea(A);
     Bubuja(A);
-    printf("\n");
     Printea(A);
 	return 0;
 }
