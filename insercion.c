@@ -16,7 +16,6 @@ int main()
     Genera(A);
     //Printea(A);
     Insertion(A);
-    printf("\n");
     //Printea(A);
 
 	return 0;
