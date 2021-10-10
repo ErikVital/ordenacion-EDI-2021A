@@ -12,8 +12,7 @@ void Printea(int A[N]);
 
 int main()
 {
-	int A[N];
-    srand(time(0));
+    int A[N];
     Genera(A);
     Printea(A);
     Bubuja(A);
