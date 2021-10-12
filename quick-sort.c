@@ -3,7 +3,7 @@
 #include<stdlib.h>
 #include<time.h>
 
-#define N 20000
+#define N 100
 
 void seleccion(int A[N]);
 void Genera(int A[N]);
